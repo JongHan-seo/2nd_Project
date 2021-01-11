@@ -25,6 +25,13 @@
 ▪ 각 사용자 별로 포인트를 웹에 나타내고 포인트가 올라가고 스토리의 사진이 변화함<br>
 ▪ 로그인, 회원가입, 사용자의 정보 변경, 공지사항, 게시판 기능 구현
  </p>
+ 
+ ### 4. 구현
+
+- 시연영상(클릭시 재생)
+<a href = "http://naver.me/GHE5BjUN">
+  <img src = "https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG">
+</a>
 
 ![main](https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG)
 ![join_1](https://user-images.githubusercontent.com/71308696/104132089-8bd7cf00-53be-11eb-90a9-09adbafe54f4.PNG)
