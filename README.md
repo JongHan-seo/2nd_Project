@@ -33,6 +33,12 @@
   <img src = "https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG">
 </a>
 
+
+![ER다이어그램](https://user-images.githubusercontent.com/71308696/104152375-afccfc00-5422-11eb-86d8-422e351de98f.PNG)
+![유스케이스1108](https://user-images.githubusercontent.com/71308696/104152377-b196bf80-5422-11eb-97b8-4d32af6b97e4.png)
+
+
+
 ![main](https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG)
 ![join_1](https://user-images.githubusercontent.com/71308696/104132089-8bd7cf00-53be-11eb-90a9-09adbafe54f4.PNG)
 ![join_2](https://user-images.githubusercontent.com/71308696/104132090-8c706580-53be-11eb-82f2-8ba7f6a1f1ee.PNG)
