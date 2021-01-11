@@ -29,7 +29,7 @@
  ### 4. 구현
 
 - 시연영상(클릭시 재생)
-<a href = "http://naver.me/GHE5BjUN">
+<a href = "https://youtu.be/q0w8_9IflzE">
   <img src = "https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG">
 </a>
 
