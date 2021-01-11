@@ -1,4 +1,4 @@
-# 최종융합 프로젝트
+# 2차 프로젝트
 
 ### 아두이노를 활용한 환경보호참여  프로젝트<br>
 **(팀장(고영주) / 팀원(김서정, 김수용, 김진아, 서종한, 차송연 )**
@@ -33,7 +33,6 @@
 ![userinfo](https://user-images.githubusercontent.com/71308696/104132097-8da19280-53be-11eb-9ce6-37dd0060d41a.PNG)
 ![Notice](https://user-images.githubusercontent.com/71308696/104132095-8da19280-53be-11eb-8567-9ebfff6728a0.PNG)
 ![usermain_1](https://user-images.githubusercontent.com/71308696/104132103-8ed2bf80-53be-11eb-882f-b9c9c2e6f905.PNG)
-![usermain_1](https://user-images.githubusercontent.com/71308696/104132031-0e13c380-53be-11eb-8755-52a3a588c303.PNG)
 ![userinfo_stage4](https://user-images.githubusercontent.com/71308696/104132099-8e3a2900-53be-11eb-8aa6-c6f96044f953.PNG)
 
 
