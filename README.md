@@ -25,8 +25,14 @@
 ▪ 각 사용자 별로 포인트를 웹에 나타내고 포인트가 올라가고 스토리의 사진이 변화함<br>
 ▪ 로그인, 회원가입, 사용자의 정보 변경, 공지사항, 게시판 기능 구현
  </p>
+ ### 4. 유스케이스 , ER 다이어그램
  
- ### 4. 구현
+ 
+![ER다이어그램](https://user-images.githubusercontent.com/71308696/104152375-afccfc00-5422-11eb-86d8-422e351de98f.PNG)
+![유스케이스1108](https://user-images.githubusercontent.com/71308696/104152377-b196bf80-5422-11eb-97b8-4d32af6b97e4.png)
+ 
+ 
+ ### 5. 구현
 
 - 시연영상(클릭시 재생)
 <a href = "https://youtu.be/q0w8_9IflzE">
@@ -34,8 +40,6 @@
 </a>
 
 
-![ER다이어그램](https://user-images.githubusercontent.com/71308696/104152375-afccfc00-5422-11eb-86d8-422e351de98f.PNG)
-![유스케이스1108](https://user-images.githubusercontent.com/71308696/104152377-b196bf80-5422-11eb-97b8-4d32af6b97e4.png)
 
 
 
