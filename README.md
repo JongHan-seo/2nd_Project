@@ -43,6 +43,9 @@
 
 
 
+![쓰레기통](https://user-images.githubusercontent.com/71308696/104153133-e7d53e80-5424-11eb-9f36-070d830362f8.PNG)
+![자판기](https://user-images.githubusercontent.com/71308696/104153139-ead02f00-5424-11eb-8deb-5f5a87dd8c9e.PNG)
+![에코백](https://user-images.githubusercontent.com/71308696/104153141-eb68c580-5424-11eb-9445-43b62c9c36da.PNG)
 
 ![main](https://user-images.githubusercontent.com/71308696/104132094-8d08fc00-53be-11eb-834a-cf67a5492cf8.PNG)
 ![join_1](https://user-images.githubusercontent.com/71308696/104132089-8bd7cf00-53be-11eb-90a9-09adbafe54f4.PNG)
