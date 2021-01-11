@@ -1,3 +1,10 @@
+# 최종융합 프로젝트
+
+**아두이노를 활용한 환경보호참여  프로젝트<br>
+(팀장(고영주) / 팀원(김서정, 김수용, 김진아, 서종한, 차송연 )**
+
+
+
 ![usermain_1](https://user-images.githubusercontent.com/71308696/104132031-0e13c380-53be-11eb-8755-52a3a588c303.PNG)
 ![db_after](https://user-images.githubusercontent.com/71308696/104132084-8a0e0b80-53be-11eb-9cf6-c250a1fdbe9d.PNG)
 ![db_all](https://user-images.githubusercontent.com/71308696/104132086-8aa6a200-53be-11eb-9775-71decf56a72a.PNG)
